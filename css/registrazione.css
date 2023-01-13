@@ -1,0 +1,94 @@
+body{background-color:#333333;}
+main{float:left;width:99%;}
+h1{border:1px solid #000000;background-color:#AA0000; padding:10px; color:#CCCCCC; font-size:1.2em;}
+h2{border:1px solid #000000;background-color:#AA0000; padding:10px; color:#CCCCCC; font-size:1.0em;}
+
+section{float:left; background-color:#555555; padding:1em;width:99%; border-bottom:3px solid #111111;}
+.wrapper{float:left; width:720px;background-color:#444444;margin-left:300px;}
+.form_registrazione{float:left;}
+.form_login{float:left;}
+.istruzioni{float:left;}
+
+
+.elements{margin:5px;padding:1em;display:block; width:200px; background-color:#121212;}
+label{color:#dddddd;}
+.elements1{margin:5px;padding:1em;display:block; width:900px; background-color:#121212; color:#EEEEEE; border: 1px solid #FF0000;}
+.elements2{margin:5px;padding:1em;display:block; width:500px; background-color:#121212; color:#EEEEEE; border: 1px solid #FF0000;}
+.data{float:left; background:#343434;}
+.bottoni{float:left; padding:1em;}
+.tasto{background-color:#AA0000;color:#DDDDDD; padding:3px;}
+.tasto:hover{background-color:#FF0000;color:#DDDDDD;padding:3px;}
+
+.extra {color:#EFEFEF;font-size:1em; margin:5px; padding:5px;background:#343434; float:left; width:99%;}
+p{color:#EFEFEF;font-size:1em; margin:10px; padding:10px;background:#343434;}
+section p.OK{color:#00FF00; font.size:1em; text-align:center; padding:1em;background:#121212;}
+section p.warning{color:#FF0000; font.size:1em; text-align:center; padding:1em;background:#121212;}
+.accedi{color:#cccccc; font.size:1em; text-align:center; padding:1em;background:#121212;}
+.pagelink:link{color:#999999;}
+.pagelink:hover{color:#ffffff;}
+.pagelink:visited{color:#BBBBBB;}
+.pagelink:active{color:#DDDDDD;}
+
+a:link{color:#AAAAAA;}
+a:hover{color:#FF0000;}
+a:visited{color:#BBBBBB;}
+a:active{color:#DDDDDD;}
+
+header{background-color:#000000; float:left; clear:both;width:100%;}
+.immagine{left:0;top:0; float:left;}
+.login_id {float:left;margin-left:600px; color: #FF0000; border:1px solid #FF0000; margin-top:10px;}
+.login_id p{float:left; color: #FF0000;}
+.login_id a:link{text-decoration: none; color: #FF0000;}
+.login_id a:visited{text-decoration: none; color: #FF0000;}
+.login_id a:hover{ text-decoration: underline; color: #FFFFFF;}
+
+.listalogin{list-style-type:none; color:#BBBBBB;}
+.anagrafica{background-color:#333333; padding:2px; border:1px solid #000000; width:828px; margin-left:10px;}
+
+.tabella_acquisti{width:70%; background-color:#333333; color: #EEEEEE; margin-left:10px;}
+.tabella_acquisti tr{padding:1.4em; }
+.tabella_acquisti td{padding:1.4em; border:1px solid #222222; }
+.tabella_acquisti th{padding:1.4em;background-color:#550000;}
+
+.usermenu{float:left; margin:10px; width:800px; background-color:#333333; border:1px solid #000000; padding:1em;}
+.intmenu{float:left; margin-right:30px;margin-left:40px;}
+.linkmenu{font-size:0.8em;}
+.icon{width:50px; clear:both; display:block;}
+
+ul#menu {
+    font-family: Verdana, sans-serif;
+    font-size: 11px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+ 
+ul#menu li {
+    background-color: #343434;
+    border-bottom: 5px solid #000000;
+    display: block;
+    width: 150px;
+    height: 30px;
+    margin: 2px;
+    float: left;
+}
+ 
+ul#menu li a {
+    color: #fff;
+    display: block;
+    font-weight: bold;
+    line-height: 30px;
+    text-decoration: none;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+}
+ 
+ul#menu li.active, ul#menu li:hover {
+    background-color: #FF0000;
+    border-bottom: 5px solid #BB0000;
+}
+menu{float:left;}	
+
+footer{background-color:#000000; float:left; clear:both;width:100%; bottom:10px;  position: relative; border: 1px solid #000000;}
+footer p{font-size:0.8em;text-align:center; padding:2px; color:#777777; background-color:#000000;}
