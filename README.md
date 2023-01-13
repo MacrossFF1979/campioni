@@ -49,7 +49,4 @@ Il formato è una serie di: AN0 + numero del campione -22 (anno corrente), che s
 
 
 
-CODICE SORGENTE:
 
-
-https://github.com/MacrossFF1979/campioni.git
